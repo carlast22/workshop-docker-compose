@@ -1,3 +1,3 @@
-require "./hello_world"
+require "./app"
 
 run Cuba
