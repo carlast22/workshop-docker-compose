@@ -7,5 +7,5 @@ services:
      - "9292:9292"
     links:
      - redis
-  redis:
+  db:
     image: redis
